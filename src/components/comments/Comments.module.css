@@ -1,0 +1,13 @@
+.comments {
+  text-align: center;
+}
+
+.comments>button {
+  font-size: 1.25rem;
+  width: 200px;
+  height: 50px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+}
